@@ -1,0 +1,22 @@
+body{
+	background-color: #AEEEEE;
+}
+.imgairlogo{
+	float: right;
+	margin-right: 30px;
+	width: 25%;
+	border:none;
+	outline: none;
+	background:none;
+}
+.input1{
+	border:2px solid #AEEEEE;
+	border-radius: 8px;
+	background-color: white;
+	font-size: 30px;
+	outline: none;
+	padding:5%;
+}
+.h1{
+	padding: 5%;
+}

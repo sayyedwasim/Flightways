@@ -1,0 +1,58 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: url(D:/git/Flightways/public/images/air7.jpg)no-repeat;
+	background-size:cover;
+}
+.imgairlogo{
+	float: right;
+	margin-right: 30px;
+	width: 25%;
+	border:none;
+	outline: none;
+	background:none;
+}
+.input1{
+	margin-top: 10%;
+	margin-left: 10%;
+	background:none;
+	outline: none;
+	border:2px solid black;
+	color:white;
+	font-size: 30px;
+}
+.input2{
+	margin-top: 10%;
+	background:none;
+	outline: none;
+	border:2px solid black;
+	font-size: 30px;
+	color: white;
+}
+.buttonfeedback{
+	border:none;
+	background:none;
+	outline: none;
+	font-size: 20px;
+	margin-left:70%;
+	margin-bottom:20px;
+	text-decoration: underline;
+	color: blue;
+	margin-top: 30%;
+}
+.buttonaboutus{
+	border:none;
+	background:none;
+	outline:none;
+	color:blue;
+	font-size: 20px;
+	text-decoration: underline;
+}
+.buttonback{
+	border:none;
+	background:none;
+	outline:none;
+	color:blue;
+	font-size: 20px;
+	text-decoration: underline;
+}
